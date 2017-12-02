@@ -18,3 +18,7 @@ body {
   border-color: #5179ba;
   width: 30%;
 }
+
+li {
+  color: green;
+}
